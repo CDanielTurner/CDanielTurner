@@ -1,7 +1,5 @@
 # Hi there, I'm Carson Turner 👋
 
-___
-
 
 📚 **About Me**
 
