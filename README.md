@@ -1,16 +1,17 @@
-### Hi there 👋
+##Hi there, I'm Carson Turner 👋
+📚 About Me
 
-<!--
-**CDanielTurner/CDanielTurner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development student at the Southern Alberta Institute of Technology (SAIT), transitioning into tech from a background in insurance. Passionate about software development, cybersecurity, I aim to create solutions that have a real-world impact.
 
-Here are some ideas to get you started:
+🌱 I’m Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Intermediate programming concepts and networking fundamentals.
+Full-stack development with a focus on modern frameworks.
+Database systems
+Software Development Life Cycle
+
+🎯 Goals
+
+Eager to learn and grow, I am dedicated to expanding my knowledge in software development and technology as a whole. My journey is about solving problems, exceeding user expectations, and making a significant impact through technology.
+
+Thank you for visiting my GitHub! Stay tuned for more updates.
