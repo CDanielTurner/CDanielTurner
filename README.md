@@ -9,10 +9,11 @@ I'm a Software Development student at the Southern Alberta Institute of Technolo
 
 🌱 **I’m Currently Learning**
 
-- Intermediate programming concepts and networking fundamentals.
-- Full-stack development with a focus on modern frameworks.
+- Intermediate programming concepts using C#
+- Full-stack web development with a focus on modern frameworks.
 - Database systems
-- Software Development Life Cycle
+- UI/UX fundementals
+- Software analysis and design fundementals
 
 🎯 **Goals**
 
