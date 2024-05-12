@@ -3,12 +3,12 @@
 
 📚 **About Me**
 
-I'm a Software Development student at the Southern Alberta Institute of Technology (SAIT), transitioning into tech from a background in insurance. Passionate about software development, cybersecurity, I aim to create solutions that have a real-world impact.
+I'm a Software Development student at the Southern Alberta Institute of Technology (SAIT), transitioning into tech from a background in insurance. Passionate about software development and cybersecurity, I aim to create solutions that have a real-world impact.
 
 🌱 **I’m Currently Learning**
 
 - Intermediate programming concepts using C#
-- Full-stack web development with a focus on modern frameworks.
+- Full-stack web development with a focus on modern frameworks
 - Database systems
 - UI/UX fundementals
 - Software analysis and design fundementals
