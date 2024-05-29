@@ -10,8 +10,8 @@ I'm a Software Development student at the Southern Alberta Institute of Technolo
 - Intermediate programming concepts using C#
 - Full-stack web development with a focus on modern frameworks
 - Database systems
-- UI/UX fundementals
-- Software analysis and design fundementals
+- UI/UX fundamentals
+- Software analysis and design fundamentals
 
 🎯 **Goals**
 
